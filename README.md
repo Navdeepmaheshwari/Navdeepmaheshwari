@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Navdeep </h1>
+<h1 align="center">Hello I'm Navdeep MAheshwari </h1>
 <h2>Currently studying Electronics and Communication Engineering🖥️</h2>
 <h2>At Indian Institute of Information Technology, Surat 👨🏻‍🎓🎓</h2>
 <br/>
@@ -11,8 +11,12 @@
 
 <br/>
 <h2 align="center">Github Statistics </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Navdeepmaheshwari&show_icons=true&theme=radical" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Navdeepmaheshwari&show_icons=true&theme=" align="center"/>
 
+<hr>
+<h2>Languages Used</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navdeepmaheshwari&layout=compact)](https://github.com/Navdeepmaheshwari/github-readme-stats)
 <!---
 Navdeepmaheshwari/Navdeepmaheshwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
