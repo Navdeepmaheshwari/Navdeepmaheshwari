@@ -2,7 +2,7 @@
 <h2>Currently studying Electronics and Communication Engineering🖥️</h2>
 <h2>At Indian Institute of Information Technology, Surat 👨🏻‍🎓🎓</h2>
 <br/>
-- My 😄 <a href="https://navdeepmaheshwari.github.io/My-Portfolio/">Portfolio</a> website
+- My 😄 <a href="https://navdeepmaheshwari.github.io/Portfolio/">Portfolio</a> website
 <br/>
 <h2 align="left">Languages and Tools:</h2>
 <br/>
