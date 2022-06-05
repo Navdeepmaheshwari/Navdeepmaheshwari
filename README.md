@@ -1,4 +1,11 @@
-<h1 align="center">Hello I'm Navdeep MAheshwari </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Navdeep.;Welcome+to+my+profile!&center=true&size=32">
+  </a>
+  <br>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="300px">
+</h1>
+<br/>
 <h2>Currently studying Electronics and Communication Engineering🖥️</h2>
 <h2>At Indian Institute of Information Technology, Surat 👨🏻‍🎓🎓</h2>
 <br/>
